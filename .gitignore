@@ -1,0 +1,8 @@
+CLAUDE.md
+filtered/
+sessions/
+temp/
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
